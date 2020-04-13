@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Tarea Formulario</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="eMail">E-mail</string>
+    <string name="telefono">Telefono</string>
+    <string name="descripcion">Descripción contacto</string>
+    <string name="fechaDeNacimiento">Fecha de Nacimiento</string>
+    <string name="boton0">Siguiente</string>
+
+
+    <string name="titulo">Confirmar Datos</string>
+    <string name="boton1">Editar Datos</string>
+    <string name="notValue">NaV</string>
+</resources>
